@@ -1,4 +1,4 @@
-module github.com/na2axl/go-flutter-plugin-titlebar
+module github.com/na2axl/go-flutter-plugin-window
 
 go 1.12
 
