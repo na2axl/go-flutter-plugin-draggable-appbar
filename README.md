@@ -1,2 +1,3 @@
-# go-flutter-plugin-draggable-appbar
-A go-flutter plugin to make a borerless window draggable from the AppBar (or any custom widget).
+# go-flutter-plugin-titlebar
+
+A [go-flutter](https://github.com/go-flutter-desktop/go-flutter) plugin to interact with a borerless window from the [AppBar](https://api.flutter.dev/flutter/material/AppBar-class.html) (or any custom widget).
