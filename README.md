@@ -1,3 +1,3 @@
-# go-flutter-plugin-titlebar
+# go-flutter-plugin-window
 
-A [go-flutter](https://github.com/go-flutter-desktop/go-flutter) plugin to interact with a borderless window from the [AppBar](https://api.flutter.dev/flutter/material/AppBar-class.html) (or any custom widget).
+A [go-flutter](https://github.com/go-flutter-desktop/go-flutter) plugin to interact with your GLFW window from Dart code.
